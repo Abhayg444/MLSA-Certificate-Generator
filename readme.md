@@ -21,9 +21,4 @@ In, `main_certificate.py` folder. Change your participants and your name with pa
 In case, you have to deal with your own participate file due to your needs, you should update `list_participants` data.
 
 Also, functions are very simple. You can implement your own versions as well.
-
-## Further Releases ( Not Sure :) )
-
-- Improving coding style
-- Adding e-mail automation to script?
-- Implementing for Linux users?
+Also, there is a email script which you can use to send directly from csv 
